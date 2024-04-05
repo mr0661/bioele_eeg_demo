@@ -1,0 +1,4 @@
+Get instructions to load data from:
+https://openneuro.org/datasets/ds002778/versions/1.0.2/download
+
+Put all data into directory called "data" inside this directory.
