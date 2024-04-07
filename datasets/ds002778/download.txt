@@ -2,3 +2,8 @@ Get instructions to load data from:
 https://openneuro.org/datasets/ds002778/versions/1.0.2/download
 
 Put all data into directory called "data" inside this directory.
+
+
+Another Dataset : https://unmm-my.sharepoint.com/personal/jcavanagh_unm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjcavanagh%5Funm%5Fedu%2FDocuments%2FPD%20REST&ga=1
+
+this can be downloaded by simply using the browser.
