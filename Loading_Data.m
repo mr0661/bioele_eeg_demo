@@ -1,7 +1,7 @@
 %% Loading trials from PD subject and matched control subject
 
-PD_trial    = load('data\PD_REST\801_1_PD_REST.mat');
-Cntrl_trial = load('data\PD_REST\894_1_PD_REST.mat');
+PD_trial    = load('data/PD_REST/801_1_PD_REST.mat');
+Cntrl_trial = load('data/PD_REST/894_1_PD_REST.mat');
 
 %% Important Parameters
 
